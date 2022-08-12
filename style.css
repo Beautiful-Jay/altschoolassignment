@@ -1,0 +1,16 @@
+.flex-container {
+    display: flex;
+    background-color: dimgrey;
+    box-sizing: border-box;
+}
+.flex-container >div {
+margin:10px;
+text-align: center;
+line-height: 65px;
+font-size: 30px;
+background-color: white;
+width: 60px;
+}
+div {
+    width: 20%;
+}
